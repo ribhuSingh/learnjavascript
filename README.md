@@ -1,3 +1,3 @@
-## Welcom to git!
-
-this is coming from dev-ribhu
+## heyoo everyone welcome to my git guide
+yoo johny here 
+and this is ribhu changes
